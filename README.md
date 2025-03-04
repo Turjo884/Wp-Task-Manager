@@ -28,6 +28,13 @@ Code Overview
 Plugin Structure
 -> wp-task-manager.php → Main plugin file.
 
+List of AI tools used and how they assisted
+-> Youtube (I has give me idea about the file structure)
+-> Chatgpt (I have get knowledge about how i change the code, debug and add features)
+
+
+Any assumptions or creative decisions made
+-> No
 
 
 Requirements
